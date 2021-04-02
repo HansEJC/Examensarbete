@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo python /home/pi/wiringPi/WiringPi2-Python/drv8835-motor-driver-rpi/acceleration.py 0.1 100 & sudo python /home/pi/wiringPi/WiringPi2-Python/drv8835-motor-driver-rpi/csvwriteracc.py 0.1 100
